@@ -1,0 +1,5 @@
+# Aroma-shop
+Experience the captivating world of Aroma Shop, where a carefully curated selection of scented treasures awaits your indulgence. Our website seamlessly marries the power of HTML and CSS to create an exceptional shopping experience. With a responsive design, enhanced by media queries, you're guaranteed effortless navigation, whether you're using a desktop, tablet, or smartphone.
+Aroma Shop beckons you to explore a range of scented luxuries, from enchanting candles that set the mood to soothing essential oils that elevate your senses. Each product is thoughtfully chosen to bring a touch of aromatic elegance to your life.
+responsive design ensures a consistent and fluid experience across various devices. Engage with intricate product details, peruse user reviews, and effortlessly navigate in an environment that's both visually captivating and easy to use.
+PHP-powered backend empowers users with distinct roles. Upon signing up, you can choose between being an admin or a user. Admins possess the ability to manage users and roles, while users enjoy personalized shopping experiences.
